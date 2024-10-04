@@ -30,7 +30,7 @@ Kurulum
 Projeleri çalıştırmak için aşağıdaki adımları izleyebilirsiniz:
 
 # Bu repository'i klonlayın:
-git clone https://github.com/kullanici_adi/repo_adi.git
+git clone https://github.com/NrgsK/Tobeto.git
 
 # Backend klasörüne gidin ve gerekli paketleri yükleyin:
 cd backend
